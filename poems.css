@@ -1,0 +1,9 @@
+h1 {
+    text-align: center;
+    color: black;
+    background-color: red;
+    transition: background-color 2s ease-in-out 0.5s;
+}
+h4 {
+    text-align: center;
+}
